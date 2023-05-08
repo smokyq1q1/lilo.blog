@@ -2,7 +2,7 @@
 title = "Geodäsie"
 date = "2023-05-08"
 draft = false
-pinned = true
+pinned = false
 image = ""
 +++
 ### Geodäsie: «die Vermessung der Erde»
