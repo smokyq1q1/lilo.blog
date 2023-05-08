@@ -47,8 +47,7 @@ Die drei Hauptpfeiler sind (in vereinfachter Weise):
    Als letztes Gesprächsthema wurde die Zukunft und Automatisierung angesprochen. Dr. Arnold erzählt, dass er nicht sehr besorgt ist, seinen Job in naher Zukunft zu verlieren. Er denkt, dass man die KI (künstliche Intelligenz) in Zukunft brauchen wird, um einfache und langweilige Teile der Arbeit zu erledigen. Die KI ist aber in den nächsten paar Jahren der Arbeit der Geodäten noch nicht gewachsen. Ein Geodät muss nämlich immer in der Lage sein, seine Resultate nachvollziehbar zu präsentieren,  denn - wie Herr Arnold sagt - «Reproduzierbarkeit ist das A und O der Wissenschaft»\
    Insgesamt ist die Geodäsie eine sehr hilfreiche Disziplin, die mehr Aufmerksamkeit verdient.  Sie hilft uns, die Welt um uns herum besser zu verstehen, und uns in ihr zurecht zu finden, doch es geht auch weit darüber hinaus.
 
-{{<box>}}
- **Geschichte**
+{{<box>}}**Geschichte**
 
    Geodäsie spielt nachgewiesenerweise das erste Mal bei den alten Ägyptern eine grosse Rolle. Sie wird zuerst zur Einteilung von Grundstücken und Äckern benutzt. Seit jeher spielt Geodäsie eine sehr wichtige Rolle im Alltag der Menschheit, ohne dass uns dies wirklich bewusst ist.
    Einen Meilenstein der Geodäsie erreicht Eratosthenes, ein brillanter griechischer Gelehrter, der im 3. Jahrhundert v. Chr. lebte. Er war ein Universalgelehrter und arbeitete in verschiedenen Bereichen wie Mathematik, Geografie, Astronomie und Literatur. Er gilt als einer der bedeutendsten Gelehrten des hellenistischen Zeitalters. Er war die erste Person, die den Erdumfang präzise berechnet hat. Seiner Berechnung nach misst der Erdumfang rund 39'325 km. Heutzutage weiss man dank moderner Technik, dass der Erdumfang 40'075km beträgt.
