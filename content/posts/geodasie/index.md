@@ -11,18 +11,19 @@ Von Silas Mühlethaler
 
 *Geodäsie - Was ist das eigentlich und welche Bedeutung hat diese Wissenschaft für uns? In dieser Reportage werden wir einen Blick auf die Welt der Geodäsie werfen und ihre Anwendungen in verschiedenen Bereichen wie Vermessung, Navigation oder auch Erforschung des Weltalls beleuchten.*
 
-
 Es ist 15:30 Uhr am Institut für exakte Wissenschaften der Uni Bern. Dr. D. Arnold, der stellvertretende Leiter der Satellitengeodäsie Forschungsabteilung, empfängt mich herzlich. In der Cafeteria, bei einem erfrischenden Glas Wasser, erzählt Herr Arnold zuerst etwas über die Geschichte der Geodäsie, gefolgt von einer spannenden Einführung in die kaum bekannte, doch hochspannende Welt dieser Wissenschaft. Doch was genau ist Geodäsie? 
 
-![von Silas Mühlethaler](20230505_143854.jpg "Institut für exakte Physik Bern")
+![von Silas Mühlethaler](20230505_143854.jpg "Bild 1, Institut für exakte Physik Bern")
 
 **Geodäsie**
  Herr Arnold gibt einen interessanten Input zum Thema Geodäsie. Er erklärt, dass die Geodäsie (eine Unterteilung der Geowissenschaften) sich hauptsächlich mit der Vermessung der Erde befasst. Er erzählt, dass die Geodäsie In drei Hauptpfeiler, mit verschiedenen Anwendungen eingeteilt ist.
 Die drei Hauptpfeiler sind (in vereinfachter Weise):
 
-1. Die Abmessung der Erde und ihrer Abplattung: «Die Erdabplattung bezeichnet die Abplattung des Planeten Erde, und damit ihre Abweichung von der Kugelform. Sie entsteht durch die Fliehkraft der Erdrotation, welche am Äquator am größten und an den Polen null ist. Dadurch nimmt der Meeresspiegel genähert die Form eines Rotationsellipsoids an». (Lexas.de) Die Erdabplattung führt zu einem sogenannten Geoid. Da die Erde nicht genau kugelförmig ist, muss man diese Abweichungen ausmessen und berechnen.
+1. Die Abmessung der Erde und ihrer Abplattung: «Die Erdabplattung bezeichnet die Abplattung des Planeten Erde, und damit ihre Abweichung von der Kugelform. Sie entsteht durch die Fliehkraft der Erdrotation, welche am Äquator am größten und an den Polen null ist. Dadurch nimmt der Meeresspiegel genähert die Form eines Rotationsellipsoids an». 
+   *\-Lexas.de* 
+   Die Erdabplattung führt zu einem sogenannten Geoid. Da die Erde nicht genau kugelförmig ist, muss man diese Abweichungen ausmessen und berechnen.
 
-   ![von Pinterest](screenshot-19-.png "Geoid")
+   ![Von Pinterest ](screenshot-19-.png "Bild 2, Geoid")
 2. Die Erdrotation zu messen: Dies ist erforderlich, da die sich Erde nicht von Tag zu Tag und Jahr zu Jahr gleich schnell dreht.
 3. Die Erdgravitation auszumessen: «Man muss wissen, dass die Anziehungskraft der Erde nicht überall gleich stark ist, weil es Unterschiede im inneren Aufbau der Erde gibt, aber auch wenn Prozesse, die auf der Erde Stadt finden.» Die Gravitation der Erde kann wegen Prozessen, wie zum Beispiel einer Flut, variieren. Einen anderen Einfluss hat die Dichte des Bodens, zum Beispiel schwankt die Höhe des Meeresspiegels deswegen (sieht man auf dem Bild 1).
    Eine Anwendung der Geodäsie ist die Landvermessung. Geodäten verwenden modernste Technologien wie GPS, Satelliten und Laservermessung, um präzise Messungen vorzunehmen. Diese Messungen werden täglich verwendet, ohne dass wir dies wirklich merken. Zum Beispiel für die Kartographie, um digitale Modelle der Erde und ihrer Oberfläche zu erstellen. Sie ist vielen Bereichen unverzichtbar, wie bei der Stadtplanung oder dem Bau von Infrastruktur. 
@@ -31,7 +32,7 @@ Die drei Hauptpfeiler sind (in vereinfachter Weise):
    Danach entwickelt sich das Gespräch in Richtung seiner Spezialisation der Satellitengeodäsie
    **Satellitengeodäsie** 
 
-   ![von Pinterest ](screenshot-18-.png "Satellit vor der Erde")
+   ![von Pinterest ](screenshot-18-.png "Bild 3, Satellit vor der Erde")
 
    Nach der Erklärung der Geodäsie, fing Dr. Arnold von seinem jetzigen Job an zu sprechen, der Satellitengeodäsie. Die um 1958 entstandene Satellitengestützte Geodäsie, kurz Satellitengeodäsie genannt, ist eine Technologie, die die Erde und ihre Oberfläche aus dem Weltall vermisst. Es handelt sich um eine Methode der Geodäsie, die auf der Verwendung von Satelliten und ihren Signalen basiert. Sie ist für die genauen Messungen der Größe, Form und Position der Erde zuständig. Diese Technologie hat viele Anwendungsbereiche, einschließlich der Vermessung von Land, der Überwachung von Naturkatastrophen und der Verbesserung von Navigationssystemen (GPS).
    Die Satellitengestützte Geodäsie nutzt Satelliten, die elliptisch um die Erde kreisen. Diese Satelliten senden Signale an Empfänger auf der Erde, die die Signale aufzeichnen und analysieren können. Die Empfänger messen die Zeit, die benötigt wird, um das Signal zu empfangen, und berechnen die Entfernung zwischen dem Satelliten und dem Empfänger. Die Daten, die von diesen Satelliten und Empfängern gesammelt werden, werden verwendet, um die genauen Koordinaten des Empfängers auf der Erdoberfläche zu berechnen und um genaue Messungen der Größe, Form und Position der Erde zu erhalten. 
