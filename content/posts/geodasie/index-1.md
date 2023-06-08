@@ -23,7 +23,7 @@ Die drei Hauptpfeiler sind (in vereinfachter Weise):
    *\-Lexas.de* 
    Die Erdabplattung führt zu einem sogenannten Geoid. Da die Erde nicht genau kugelförmig ist, muss man diese Abweichungen ausmessen und berechnen.
 
-   ![Von Pinterest ](screenshot-19-.png "Bild 2, Geoid")
+   ![Von Pinterest ](https://i.ibb.co/Lr9533F/Screenshot-19.png "Bild 2, Geoid")
 2. Die Erdrotation zu messen: Dies ist erforderlich, da die sich Erde nicht von Tag zu Tag und Jahr zu Jahr gleich schnell dreht.
 3. Die Erdgravitation auszumessen: «Man muss wissen, dass die Anziehungskraft der Erde nicht überall gleich stark ist, weil es Unterschiede im inneren Aufbau der Erde gibt, aber auch wenn Prozesse, die auf der Erde Stadt finden.» Die Gravitation der Erde kann wegen Prozessen, wie zum Beispiel einer Flut, variieren. Einen anderen Einfluss hat die Dichte des Bodens, zum Beispiel schwankt die Höhe des Meeresspiegels deswegen (sieht man auf dem Bild 1).
    Eine Anwendung der Geodäsie ist die Landvermessung. Geodäten verwenden modernste Technologien wie GPS, Satelliten und Laservermessung, um präzise Messungen vorzunehmen. Diese Messungen werden täglich verwendet, ohne dass wir dies wirklich merken. Zum Beispiel für die Kartographie, um digitale Modelle der Erde und ihrer Oberfläche zu erstellen. Sie ist vielen Bereichen unverzichtbar, wie bei der Stadtplanung oder dem Bau von Infrastruktur. 
